@@ -8,7 +8,6 @@ IP-CIDR,115.126.39.1/255,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
