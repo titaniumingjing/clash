@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,aiyifan.tv
 DOMAIN-SUFFIX,iyf.tv
